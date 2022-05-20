@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------------------------------------------------
 __fork__ from https://github.com/facebookresearch/faiss 
 
-When you build from source and face the issue that "__swig error : Unrecognized option -doxygen", this project may help you__". 
+When you build from source and face the issue that "__swig error : Unrecognized option -doxygen__", this project may help you. 
 
 -------------------------------------------------------------------------------------------------------------------------
 
